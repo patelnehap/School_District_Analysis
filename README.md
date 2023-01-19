@@ -12,7 +12,7 @@ The school board asked for the data to be removed and analyzed again for a compa
 
 Summary Analysis:
 
-<img   src="https://github.com/patelnehap/Amazon_Vine_Analysis/blob/main/Images/GreaterThan20.JPG"  alt="Greater Than 20"  title="Greater than 20" style="display: inline-block; margin: 0 auto; max-width: 300px">
+<img   src="https://github.com/patelnehap/School_District_Analysis/blob/main/Images/Orignal_Analysis.JPG"  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 When assessing average scores and passing percentages among the 15 high schools in the school district, the average math score dropped .1, the average reading score stayed the same, the percentage passing math dropped 1%, the percentage passing reading dropped 1%, and the overall passing percent dropped 1%.
 
